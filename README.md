@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maroweh
-- 👀 I’m interested in X++, c# and SQL
+- 👀 I’m interested in X++, C# and SQL
 - 🌱 I’m currently learning Microsoft D365 FnO
 
 <!---
